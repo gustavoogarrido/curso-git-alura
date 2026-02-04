@@ -1,4 +1,3 @@
 ## Repositório para prática de git com GitHub pela Alura
 
-
-teste de pull para vscode
+Esse repositório serve apenas para treinar git
